@@ -1,0 +1,4 @@
+gradio
+fpdf2
+PyPDF2
+nltk
